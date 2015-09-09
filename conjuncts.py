@@ -3,7 +3,7 @@ import sys
 from lxml import etree
 
 def main():
-    print(dir(etree))
+    print('Hi')
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,7 @@
 import sys
 import unittest
 import conjuncts
-from conjuncts import lxml
+
 
 class TestCase(unittest.TestCase):
     def check_lxml_is_installed(self):
